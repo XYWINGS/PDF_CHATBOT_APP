@@ -23,7 +23,7 @@ This project is a Next.js web application that allows users to upload PDF docume
 
    ```bash
    git clone https://github.com/XYWINGS/PDF_CHATBOT_APP.git
-   cd rag-webapp
+   cd rag-pdf-webapp
    ```
 
 2. Install dependencies:

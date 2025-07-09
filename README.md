@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Next.js web application that allows users to upload PDF documents and ask questions about their content using a Retrieval-Augmented Generation (RAG) model. The frontend is hosted on Netlify, while the RAG model API is deployed separately.
+This project is a Next.js web application that allows users to upload PDF documents and ask questions about their content using a Retrieval-Augmented Generation (RAG) model.
 
 ## Features
 
